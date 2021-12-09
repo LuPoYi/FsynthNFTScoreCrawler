@@ -1,0 +1,11 @@
+{
+  "name": "FsynthNFTCrawler",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "lowdb": "^1.0.0",
+    "puppeteer": "^12.0.1"
+  }
+}

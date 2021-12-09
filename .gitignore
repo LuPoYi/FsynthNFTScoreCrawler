@@ -1,0 +1,9 @@
+.env
+yarn-error.log
+tmp/
+.idea/
+
+**.log
+config.json
+
+node_modules/
